@@ -16,6 +16,6 @@ The he ask for cold water with ice cubes.
 
 ##[2b]## But we do have a cocktail named after you.
 
-**[]**
+**[3a]**Faint Interest and politly decline.
 
-**[]**
+**[3b]**Inquire About this drink.
