@@ -1,2 +1,6 @@
-# Winter-2022-Your-Story
-Create your own story to practice with git
+## [start]
+A grasshopper walks into a bar.
+
+## [1a] he asks for a beer
+## [1b] he asks what drinks they have
+
