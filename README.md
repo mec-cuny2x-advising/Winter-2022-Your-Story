@@ -1,5 +1,10 @@
 ## the Tales of the Grass-hooper
 
+
+Ju-an has gone too far. we need to stop him
+
+
+
 ## [start]
 A grasshopper walks into a bar.
 
